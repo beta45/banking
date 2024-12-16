@@ -7,7 +7,7 @@ def setup_database():
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="mysqlboot"
+            password="Tin98@4$naV#"
         )
         cursor = connection.cursor()
         
@@ -20,7 +20,7 @@ def setup_database():
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="mysqlboot",
+            password="Tin98@4$naV#",
             database="bank"
         )
         cursor = connection.cursor()

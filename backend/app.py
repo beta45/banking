@@ -14,7 +14,7 @@ CORS(app, resources={r"/*": {"origins": "*"}})  # Allow requests from all origin
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'mysqlboot',  # Replace with your MySQL password
+    'password': 'Tin98@4$naV#',  # Replace with your MySQL password
     'database': 'bank'  # Replace with your database name
 }
 
